@@ -1,28 +1,22 @@
-# PyQt5-Demos
+[2-GUI-CreatingPushButton](Examples/2-GUI-CreatingPushButton.py)
 
- Some example that demonstrated how to use the components in PyQt5 
+[3-GUI-Layout](Examples/3-GUI-Layout.py)
 
-## Examples
+[AddImageInPyqtWindow](Examples/AddImageInPyqtWindow.py)
 
-[CreatingPushButton](Examples/2-GUI-CreatingPushButton.py)
+[ContextMenu](Examples/ContextMenu.py)
 
-[Layout](Examples/3-GUI-Layout.py)
+[CreateFramelessWindow](Examples/CreateFramelessWindow.py)
 
-[Add Image In Pyqt Window](Examples/AddImageInPyqtWindow.py)
+[DialExampleWithValueChangedSignal](Examples/DialExampleWithValueChangedSignal.py)
 
-[Context Menu](Examples/ContextMenu.py)
+[DockAbleWidget](Examples/DockAbleWidget.py)
 
-[Create Frameless Window](Examples/CreateFramelessWindow.py)
+[DrawPloygen](Examples/DrawPloygen.py)
 
-[Dial Example With ValueChanged Signal](Examples/DialExampleWithValueChangedSignal.py)
+[ExportAsPDF](Examples/ExportAsPDF.py)
 
-[DockAble Widget](Examples/DockAbleWidget.py)
-
-[Draw Ploygen](Examples/DrawPloygen.py)
-
-[Export As PDF](Examples/ExportAsPDF.py)
-
-[CreatingWindow](Examples/GUI-CreatingWindow#1.py)
+[GUI-CreatingWindow#1](Examples/GUI-CreatingWindow#1.py)
 
 [GridLayout](Examples/GridLayout.py)
 
